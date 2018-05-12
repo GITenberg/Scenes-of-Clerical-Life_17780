@@ -1,0 +1,36 @@
+_repo: Scenes-of-Clerical-Life_17780
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eliot, George
+    aliases:
+    - Evans, Marian
+    - Lewes, M. E. (Marian Evans)
+    - Lewes, Marian Evans
+    - Evans, Mary Anne
+    - Cross, Mary Ann
+    - Cross, Marian Evans
+    birthdate: 1819
+    deathdate: 1880
+    gutenberg_agent_id: '90'
+    url: http://www.gutenberg.org/2009/agents/90
+    wikipedia: http://en.wikipedia.org/wiki/George_Eliot
+description: 'Scenes of clerical life: The sad fortunes of the Rev. Amos Barton. Mr.
+  Gilfil''s love story. Janet''s repentance -- Adam Bede.'
+gutenberg_issued: '2006-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: Scenes of Clerical Life
+url: http://www.gutenberg.org/ebooks/17780
