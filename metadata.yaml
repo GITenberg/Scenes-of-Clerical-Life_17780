@@ -20,6 +20,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/George_Eliot
 description: 'Scenes of clerical life: The sad fortunes of the Rev. Amos Barton. Mr.
   Gilfil''s love story. Janet''s repentance -- Adam Bede.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17780#Scenes-of-Clerical-Life
 gutenberg_issued: '2006-02-16'
 gutenberg_type: Text
 identifiers:
